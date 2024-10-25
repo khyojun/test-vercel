@@ -23,7 +23,7 @@ function Home() {
       <h1>Home Page</h1>
       <p>Click the button below to authenticate with GitHub.</p>
       <a href="https://api.rankit.run/oauth2/authorization/github">
-        <button>Login with GitHub</button>
+        <button>Login withw GitHub</button>
       </a>
     </div>
   );
